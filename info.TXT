@@ -1,0 +1,5 @@
+to upload from local to git 
+frisr use git status
+2 git add
+3git commit
+4push
